@@ -47,11 +47,11 @@ Application Angular 17 offrant une interface bancaire complète avec authentific
 ![Snake animation](https://github.com/votre-username/votre-username/blob/output/github-contribution-grid-snake.svg)
 
 ### Activité :
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=votre-username&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=votre-username&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔗 Lien avec le backend
 
-Ce projet fonctionne en tandem avec [Bankati-api](), qui fournit l'API REST Spring Boot.
+Ce projet fonctionne en tandem avec [Bankati-api](https://github.com/ENNEDDI-Omar/Bankati-api.git), qui fournit l'API REST Spring Boot.
 <div align="center">
 Made with ❤️ by ENNEDDI Omar
 </div>
