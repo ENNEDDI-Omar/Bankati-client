@@ -47,7 +47,7 @@ Application Angular 17 offrant une interface bancaire complète avec authentific
 ![Snake animation](https://github.com/votre-username/votre-username/blob/output/github-contribution-grid-snake.svg)
 
 ### Activité :
-![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enneddi-omar)
+![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ENNEDDI-Omar)
 
 ## 🔗 Lien avec le backend
 
