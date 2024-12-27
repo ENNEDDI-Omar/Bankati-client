@@ -1,18 +1,43 @@
-Bankati-client 🏦
-<p align="center">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-Si ces badges ne sont toujours pas visibles, nous pouvons utiliser une autre alternative plus simple mais toujours professionnelle :
-Bankati-client 🏦
-Technologies utilisées :
+# Bankati-client
 
-Angular 17
-TypeScript
-Bootstrap
-JWT Authentication
-HTML5/CSS3
+Interface utilisateur Angular pour l'application bancaire Bankati. Ce frontend sécurisé offre une expérience utilisateur moderne et fluide, intégrant une gestion avancée des identités et une communication robuste avec l'API backend.
+
+## 🎯 Description
+
+Application Angular 17 offrant une interface bancaire complète avec authentification JWT, gestion des rôles (ADMIN, USER, EMPLOYEE) et fonctionnalités bancaires sécurisées. L'application met l'accent sur la sécurité, la performance et l'expérience utilisateur.
+
+## 🚀 Fonctionnalités principales
+
+- Authentification sécurisée avec gestion JWT
+- Interface responsive et moderne
+- Protection des routes par rôle
+- Gestion automatique des sessions
+- Intercepteurs HTTP sécurisés
+- Rafraîchissement automatique des tokens
+
+## 🔒 Sécurité
+
+- Guards de protection des routes
+- Gestion sécurisée des tokens
+- Intercepteurs HTTP pour authentification
+- Gestion des erreurs 401/403
+- Session management avancé
+
+## 🛠️ Architecture technique
+
+- Angular 17
+- JWT Authentication
+- Services REST sécurisés
+- State management moderne
+- Composants réutilisables
+
+## 📦 Composants clés
+
+- Module d'authentification complet
+- Tableau de bord utilisateur
+- Gestion de profil
+- Services bancaires sécurisés
+
+## 🔗 Lien avec le backend
+
+Ce projet fonctionne en tandem avec [Bankati-api](lien-vers-votre-repo-api), qui fournit l'API REST Spring Boot.
