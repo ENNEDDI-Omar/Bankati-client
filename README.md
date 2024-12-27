@@ -1,6 +1,14 @@
-# Bankati-client
+# Bankati-client 🏦
 
-Interface utilisateur Angular pour l'application bancaire Bankati. Ce frontend sécurisé offre une expérience utilisateur moderne et fluide, intégrant une gestion avancée des identités et une communication robuste avec l'API backend.
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/votre-username/Bankati-client)
+![GitHub contributors](https://img.shields.io/github/contributors/votre-username/Bankati-client)
+![GitHub last commit](https://img.shields.io/github/last-commit/votre-username/Bankati-client)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+
+</div>
 
 ## 🎯 Description
 
