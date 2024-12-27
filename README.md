@@ -46,13 +46,13 @@ Application Angular 17 offrant une interface bancaire complète avec authentific
 - Gestion de profil
 - Services bancaires sécurisés
 
-### Statistiques du projet :
+### Stats du dépôt :
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=votre-username&theme=darkhub&margin-w=15" alt="Trophées GitHub"/>
+</p>
 
-    <div align="center">
-    
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=votre-username&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-    
-    </div>
+### Ligne de temps des contributions :
+![Snake animation](https://github.com/votre-username/votre-username/blob/output/github-contribution-grid-snake.svg)
 
 ### Activité :
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=votre-username&theme=github)
