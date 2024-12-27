@@ -46,6 +46,17 @@ Application Angular 17 offrant une interface bancaire complète avec authentific
 - Gestion de profil
 - Services bancaires sécurisés
 
+### Statistiques du projet :
+
+    <div align="center">
+    
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=votre-username&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    
+    </div>
+
+### Activité :
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=votre-username&theme=github)
+
 ## 🔗 Lien avec le backend
 
 Ce projet fonctionne en tandem avec [Bankati-api](lien-vers-votre-repo-api), qui fournit l'API REST Spring Boot.
